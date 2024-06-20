@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>AIFL Health Technologies APP (ME App)</h1>
+  <h1>Thrift Spot PH (Mobile APP)</h1>
   <p>in Development<p>
 </div>
 
@@ -23,7 +23,7 @@ For React Native Environmental setup you can watch it on this <a href="https://y
 Clone or download repository
 
 ```bash
-git clone git@github.com:Endenxu/AIFL-App.git
+git clone link
 ```
 
 Install the project dependencies using npm:
