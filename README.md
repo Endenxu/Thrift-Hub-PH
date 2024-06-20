@@ -23,7 +23,7 @@ For React Native Environmental setup you can watch it on this <a href="https://y
 Clone or download repository
 
 ```bash
-git clone link
+git clone git@github.com:Endenxu/Thrift-Hub-PH.git
 ```
 
 Install the project dependencies using npm:
